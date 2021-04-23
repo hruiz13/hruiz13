@@ -1,4 +1,6 @@
-### Here is what I'm Working Ion!
+<img src='https://hruiz.com/img/logo-hruiz.png' />
+
+### Here is what I'm Working on!
 ### Aca esta todo en lo que estoy trabajando!
 
 -Ultimos lenguajes de proyectos trabajados... React / Redux
@@ -15,3 +17,6 @@
 Pagina personal  [hruiz.com](https://hruiz.com)
 
 CV personal [CV hruiz](https:cv.hruiz.com)
+
+[![hruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hruiz13)](https://github.com/hruiz13/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hruiz13&layout=compact)](https://github.com/hruiz13/github-readme-stats)
+
