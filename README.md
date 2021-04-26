@@ -16,5 +16,5 @@
 
 CV personal [CV hruiz](https://cv.hruiz.com)
 
-[![hruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hruiz13)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hruiz13&layout=compact)]
+![hruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hruiz13) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hruiz13&layout=compact)
 
