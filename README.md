@@ -5,7 +5,7 @@
 
 -Ultimos lenguajes de proyectos trabajados... React / Redux
 
--Lenguajes con los que trabajo en mi proyecto actual... Typescript
+-Lenguajes con los que trabajo en mi proyecto actual... VTEX-IO
 
 -Ultimo lenguaje practicado y que quiero aprender mas... React Native
 
