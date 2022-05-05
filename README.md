@@ -3,9 +3,9 @@
 ### Here is what I'm Working on!
 ### Aca esta todo en lo que estoy trabajando!
 
--Ultimos lenguajes de proyectos trabajados... React / Redux
+-Ultimos lenguajes de proyectos trabajados... React/Graphql/VTEX IO
 
--Lenguajes con los que trabajo en mi proyecto actual... VTEX-IO
+-Lenguajes con los que trabajo en mi proyecto actual... React/Redux
 
 -Ultimo lenguaje practicado y que quiero aprender mas... React Native
 
