@@ -13,6 +13,8 @@
 
 -Primer lenguaje apendido... PHP
 
+-Lenguaje que estoy aprendiendo ahora mismo... Flutter
+
 
 CV personal [CV hruiz](https://cv.hruiz.com)
 
