@@ -5,7 +5,7 @@
 
 -Lenguajes con los que trabajo en mi proyecto actual... React/Redux - Flutter
 
--Ultimos lenguajes de proyectos trabajados... React/Graphql/VTEX IO
+-Ultimos lenguajes de proyectos trabajados... React Native - Flutter - React/Graphql/VTEX IO
 
 -Ultimo lenguaje practicado y que quiero aprender mas... React Native
 
@@ -13,7 +13,7 @@
 
 -Primer lenguaje apendido... PHP
 
--Lenguaje que estoy aprendiendo ahora mismo... Dart/Flutter
+-Lenguaje que estoy aprendiendo ahora mismo... Go
 
 
 CV personal [CV hruiz](https://cv.hruiz.com)
