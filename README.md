@@ -5,7 +5,7 @@
 
 -Lenguajes con los que trabajo en mi proyecto actual... React/Redux - Flutter
 
--Ultimos lenguajes de proyectos trabajados... React Native - Flutter - React/Graphql/VTEX IO
+-Ultimos lenguajes de proyectos trabajados... React Native - Flutter - NextJS
 
 -Ultimo lenguaje practicado y que quiero aprender mas... React Native
 
