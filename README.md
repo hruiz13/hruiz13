@@ -11,7 +11,7 @@
 
 -Años desde que inicie en el mundo de la programacion... 15 años mas o menos.
 
--Primer lenguaje apendido... PHP
+-Primer lenguaje aprendido... PHP
 
 -Lenguaje que estoy aprendiendo ahora mismo... Go
 
